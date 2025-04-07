@@ -300,7 +300,8 @@
                     <img src="https://cdn.pixabay.com/photo/2024/03/11/07/18/ai-generated-8626003_960_720.png" alt="Historia Zario">
                     <div>
                         <h3>Un legado de innovación</h3>
-                        <p>La marca Zario està destinada a revolucionar el món de l'automòbil amb els seus dissenys audaces i el seu ferm compromís amb la sostenibilitat. Fundada amb la visió de transformar la mobilitat, Zario aposta per tecnologies innovadores i materials ecològics per reduir l'impacte ambiental. Cada vehicle és dissenyat per oferir eficiència, estil i respecte pel planeta, marcant el camí cap a un futur més sostenible a les carreteres.</p>
+                        <p>La marca Zario està destinada a revolucionar el món de l'automòbil amb els seus dissenys audaces i el seu ferm compromís amb la sostenibilitat. Fundada amb la visió de transformar la mobilitat, Zario aposta per tecnologies <br> 
+        innovadores i materials ecològics per reduir l'impacte ambiental. Cada vehicle és dissenyat per oferir eficiència, estil i respecte pel planeta, marcant el camí cap a un futur més sostenible a les carreteres.</p>
                     </div>
                 </div>
             </section>
